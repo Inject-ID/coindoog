@@ -1,0 +1,2 @@
+# coindoog
+Bot Claim Coindoog
